@@ -1,0 +1,77 @@
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+attrs==21.4.0
+autopep8==1.6.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.11.1
+bleach==5.0.1
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+cffi==1.15.1
+charset-normalizer==2.1.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml==0.7.1
+entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastjsonschema==2.15.3
+idna==3.3
+ipykernel @ file:///C:/ci/ipykernel_1647000977835/work/dist/ipykernel-6.9.1-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1651602003142/work
+ipython-genutils==0.2.0
+ipywidgets==7.7.1
+jedi==0.17.1
+Jinja2==3.1.2
+jsonschema==4.7.2
+jupyter==1.0.0
+jupyter-client @ file:///C:/ci/jupyter_client_1650534191185/work
+jupyter-console==6.4.4
+jupyter-core @ file:///C:/ci/jupyter_core_1651638076360/work
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==1.1.1
+lxml==4.9.1
+MarkupSafe==2.1.1
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+mistune==0.8.4
+nbclient==0.6.6
+nbconvert==6.5.0
+nbformat==5.4.0
+nest-asyncio @ file:///C:/ci/nest-asyncio_1649848132512/work
+notebook==6.4.12
+numpy==1.23.1
+packaging==21.3
+pandas==1.4.3
+pandocfilters==1.5.0
+parso==0.7.1
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prometheus-client==0.14.1
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycodestyle==2.8.0
+pycparser==2.21
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing==3.0.9
+pyrsistent==0.18.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2022.1
+pywin32==302
+pywinpty==2.0.6
+pyzmq @ file:///C:/ci_310/pyzmq_1642090360481/work
+qtconsole==5.3.1
+QtPy==2.1.0
+requests==2.28.1
+Send2Trash==1.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.3.2.post1
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+terminado==0.15.0
+tinycss2==1.1.1
+toml==0.10.2
+tornado @ file:///C:/ci_310/tornado_1642093111997/work
+traitlets==5.3.0
+urllib3==1.26.10
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+widgetsnbextension==3.6.1
+wincertstore==0.2
